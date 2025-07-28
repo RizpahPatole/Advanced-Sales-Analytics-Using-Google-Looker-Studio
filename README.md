@@ -14,7 +14,6 @@ Creating interactive dashboards in Google Looker Studio for better understanding
 Highlighting customer payment patterns to support targeted marketing campaigns.
 
 Pre-requisites:
-Before starting this project, you should have the following knowledge and tools in place:
 
 1. Basic SQL Knowledge:
 o Understanding of SQL queries such as SELECT, JOIN, GROUP BY, and filtering data using WHERE and HAVING. o Familiarity with creating and managing relational databases and tables.
